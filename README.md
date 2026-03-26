@@ -2,7 +2,7 @@
 BS MECHATRONICS ENGINEERING
 
 # Hi there 👋
-## I'm Ralph Neil Maranan
+## I'm Edralyn Mercado
 
 💻 Aspiring Mechatronics Engineer  
 📍 Philippines  
