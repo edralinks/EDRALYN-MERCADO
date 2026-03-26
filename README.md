@@ -4,7 +4,7 @@
 font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Edralyn+Mercado!;" />
 </h1>
 
-<h3 align="center">A BS Mechatronics Engineering </h3>
+<h3 align="center"> BS Mechatronics Engineering </h3>
 
 💻 Aspiring Mechatronics Engineer  
 📍 Philippines  
