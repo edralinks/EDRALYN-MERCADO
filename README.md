@@ -9,4 +9,4 @@ BS MECHATRONICS ENGINEERING
 🎓 Batangas State University  
 
 ---
- ![Dino Game](dino.gif)
+ ![Dino Game](dino.gif) 
